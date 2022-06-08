@@ -1,3 +1,8 @@
 .comparison{
     width: 300px;
 }
+@media (max-width: 600px) {
+    .navsmall{
+        background-color: rgba(6, 156, 106, 0.425);
+    }
+}
